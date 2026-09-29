@@ -1,0 +1,6 @@
+{
+  "name": "ODS – Om Digital Services",
+  "description": "Professional digital partner providing website development, graphic design, Excel data solutions, document services, and custom digital assistance for businesses and startups.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
